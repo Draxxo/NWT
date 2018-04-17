@@ -114,14 +114,6 @@
             </span>
           </a>
         </li>
-         <li>
-          <a href="wc.php">
-            <i class="fa fa-wordpress"></i>
-            <span>WC</span>
-            <span class="pull-right-container">
-            </span>
-          </a>
-        </li>
       </ul>
     </section>
     <!-- /.sidebar -->
